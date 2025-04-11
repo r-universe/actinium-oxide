@@ -1,5 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "marcox"]
+	path = marcox
+	url = https://github.com/actinium-oxide/marginal-cox-model-for-correlation-survival-data------marcox
